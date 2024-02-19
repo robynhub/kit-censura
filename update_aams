@@ -1,9 +1,0 @@
-#!/bin/bash
-
-source common_aams.sh
-
-
-URL_aams="https://www.adm.gov.it/portale/siti-web-inibiti-giochi"
-
-download_aams lists/aams.new
-

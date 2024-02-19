@@ -1,9 +1,0 @@
-#!/bin/bash
-# Documented on:
-# https://www1.agenziadoganemonopoli.gov.it/siti_inibiti_tabacchi.htm
-
-source common_aams.sh
-URL_aams="https://www.adm.gov.it/portale/siti-inibiti-tabacchi"
-
-download_aams lists/tabacchi.new 
-
